@@ -243,9 +243,9 @@ img {
 }
 
 hr {
-  border-color: #0099ff;
-  border-width: 3px;
-  max-width: 50px;
+  border-color: #000;
+  border-width: 1px;
+  max-width: 100%;
 }
 
 .gray {
