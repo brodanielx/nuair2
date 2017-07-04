@@ -94,12 +94,17 @@ i.fa.white {
    line-height: 0.1em;
    margin: 15px 0 10px;
 }
-@media screen and (max-width: 2400px) {
-  .jumbotron h1, .jumbotron .h1 {
-    font-size: 38px;
+
+.topright {
+  margin-top: 62px;
+}
+
+@media screen and (max-width: 880px) {
+  .jumbotron p {
+    font-size: 18px;
   }
-  .jumbotron .tsg {
-    font-size: 12px;
+  .topright {
+    margin-top: 66px;
   }
 }
 @media screen and (max-width: 1201px) {
