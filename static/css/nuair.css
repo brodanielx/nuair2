@@ -287,10 +287,18 @@ p.font3p4 {
   font-size: 3.4em;
 }
 
+p.bold {
+  font-weight: bold;
+}
+
 .whitebg {
   background-color: white;
 }
 
 .pl5 {
   padding-left: 5px;
+}
+
+.max-width-60 {
+  max-width: 60%;
 }
