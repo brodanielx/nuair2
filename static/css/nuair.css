@@ -137,6 +137,9 @@ i.fa.white {
     font-size: 20px !important;
   }
 }
+p.font3p4 {
+  font-size: 3.4em;
+}
 @media screen and (max-width: 530px) {
   .jumbotron h1,
   .jumbotron .h1 {
@@ -144,6 +147,12 @@ i.fa.white {
   }
   .jumbotron .of {
     font-size: 16px !important;
+  }
+  p.font3p4 {
+    font-size: 1.9em;
+  }
+  .jumbotron {
+    padding-top: 0px;
   }
 }
 @media all and (max-width: 767px) {
@@ -281,10 +290,6 @@ hr {
 
 .font1p2 {
   font-size: 1.2em;
-}
-
-p.font3p4 {
-  font-size: 3.4em;
 }
 
 p.bold {
