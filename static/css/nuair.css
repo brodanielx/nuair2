@@ -154,6 +154,12 @@ p.font3p4 {
   .jumbotron {
     padding-top: 0px;
   }
+  a[href^="tel"].white {
+    color: white !important;
+  }
+  .contact {
+    padding-top: 25px;
+  }
 }
 @media all and (max-width: 767px) {
     .floated_div { display: none; }
@@ -183,6 +189,11 @@ img {
 .pb10 {
   padding-bottom: 10px;
 }
+
+.pb20 {
+  padding-bottom: 20px;
+}
+
 .pt10 {
   padding-top: 10px;
 }
