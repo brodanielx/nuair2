@@ -160,6 +160,9 @@ p.font3p4 {
   .contact {
     padding-top: 25px;
   }
+  .services {
+    margin-top: 25px;
+  }
 }
 @media all and (max-width: 767px) {
     .floated_div { display: none; }
@@ -192,6 +195,10 @@ img {
 
 .pb20 {
   padding-bottom: 20px;
+}
+
+.pt20 {
+  padding-top: 20px;
 }
 
 .pt10 {
